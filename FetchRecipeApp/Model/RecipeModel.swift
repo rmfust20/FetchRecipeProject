@@ -1,10 +1,3 @@
-//
-//  RecipeModel.swift
-//  FetchRecipeApp
-//
-//  Created by Robert Fusting on 12/9/24.
-//
-
 import Foundation
 
 struct RecipeModel: Codable, Identifiable{
